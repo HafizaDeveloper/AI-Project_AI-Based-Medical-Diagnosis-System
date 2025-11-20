@@ -43,7 +43,7 @@ The system helps identify at-risk patients early, potentially saving lives throu
 **Key Features:**
 `age`, `sex`, `cp`, `trestbps`, `chol`, `fbs`, `restecg`, `thalach`, `exang`, `oldpeak`, `slope`, `ca`, `thal`, `target`
 
-**📦 Dataset Source:** 
+**📦 Dataset Source:**
 [https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 
 ---
@@ -77,13 +77,13 @@ Follow these simple steps to run the project on your system:
 ### **1. Clone this repository**
 
 ```bash
-git clone https://github.com/alisafeer-hub/Medical-Diagnosis-System---Group-05---Mahnoor---Dua-Kulsoom.git
+git clone https://github.com/HafizaDeveloper/AI-Project_AI-Based-Medical-Diagnosis-System.git
 ```
 
 ### **2. Navigate to the project folder**
 
 ```bash
-cd Medical-Diagnosis-System---Group-05---Mahnoor---Dua-Kulsoom
+cd AI-Project_AI-Based-Medical-Diagnosis-System
 ```
 
 ### **3. Install required dependencies**
@@ -176,7 +176,7 @@ After training, the model can make predictions based on the given medical input 
 
 **Dua Kulsoom (37)**  
 **Mahnoor M. Ayub (57)**  
-_BSCS – 6th Semester, Section A, 14th Batch_  
+_BBSUL - BSCS – 6th Semester, Section A, 14th Batch_  
 Department of Computer Science
 
 ---
